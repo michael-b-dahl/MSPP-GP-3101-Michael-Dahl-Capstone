@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver url="https://services1.arcgis.com/0mhlGDIUKwQF6tnJ/arcgis/rest/services/NYC_Borough_Boundaries/FeatureServer" name="BoroughBoundaries" authcfg="" password="" username=""/>
+</qgsARCGISFEATURESERVERConnections>
