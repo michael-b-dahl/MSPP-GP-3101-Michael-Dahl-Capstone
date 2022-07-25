@@ -281,7 +281,7 @@ NYCviolations<-select(NYCviolations, select = -c("street_address", "state", "cit
 ### Providing ggmap with my API key from Google
 ### My API key has been redacted
 ### Get an API Key here: https://console.cloud.google.com/apis
-register_google(key="AIzaSyCkvNYqNRU89gv3U4TtaRKgCvOsc9xs4RU")
+register_google(key="#####################################")
 
 ### Geocoding to get latitude and longitude coordinates
 origAddress <- select(NYCviolations, select="address")
